@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="NFT.Market.app/NFT.Market">
+      <BCSymbolMapName>NFT.Market.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>NFT.Market.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/eltin/Projects/NFT.Market/NFT.Market/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>NFT.Market.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/eltin/Projects/NFT.Market/NFT.Market</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
